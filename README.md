@@ -20,5 +20,5 @@ This repo contains all my practice code, exercises, and small projects as I lear
 1. Install [Node.js](https://nodejs.org) (LTS version recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/muhammedismayeel/<repo-name>.git
+   git clone https://github.com/muhammedismayeel/nodejs-journey.git
 # nodejs-journey
