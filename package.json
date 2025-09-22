@@ -1,0 +1,23 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Welcome to my **Node.js practice repository**!  \r This repo contains all my practice code, exercises, and small projects as I learn Node.js step by step.",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammedismayeel/nodejs-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammedismayeel/nodejs-journey/issues"
+  },
+  "homepage": "https://github.com/muhammedismayeel/nodejs-journey#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
